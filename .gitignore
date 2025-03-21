@@ -1,0 +1,34 @@
+# byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv
+.env/
+env/
+*.egg-info/
+
+# Logs
+*.log
+
+#IDEs
+.vscode/
+
+# OS related stuff
+.DS_Store
+Thumbs.db
+
+# AI related
+AI/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# DIST / builds
+dist/
+build/
+*.egg
+*.whl
+
+# PyInstaller
+*.spec
